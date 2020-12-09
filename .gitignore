@@ -1,6 +1,6 @@
-/.metadata/
-logs\logs.txt
-/META-INF/
-/project-1-0.0.1-SNAPSHOT/
-/project-1-0.0.1-SNAPSHOT.war
+**/.metadata/
+**/logs\logs.txt
+**/META-INF
+**/project-1-0.0.1-SNAPSHOT
+**/project-1-0.0.1-SNAPSHOT.war
 
